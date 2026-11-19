@@ -1,0 +1,1 @@
+# Calcul-poutre-avec-connexion-LTbeam
